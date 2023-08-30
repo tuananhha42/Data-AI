@@ -1,0 +1,6 @@
+Name,Age,Gender,MathScore,EnglishScore,Score,Full_Name,Subject,TotalScore,Pass,First_Name,Last_Name
+John,25,Male,80,90,85.0,John Doe,Math,170,True,John,Doe
+Alice,30,Female,70,85,77.5,Alice Smith,English,155,True,Alice,Smith
+Bob,22,Male,60,75,67.5,Robert Johnson,Math,135,True,Robert,Johnson
+Eve,28,Female,55,95,75.0,Eve Williams,English,150,True,Eve,Williams
+Chris,24,Male,90,80,85.0,Chris Brown,Math,170,True,Chris,Brown
