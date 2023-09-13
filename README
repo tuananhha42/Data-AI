@@ -4,6 +4,10 @@ Lesson 2: -Ôn tập python cơ bản
           -Basic pandas example
           -Bài tập về nhà với pandas
 Lesson 3: -Làm bài tập về pandas trên w3 
+          -Xử lý missing value
 Lesson 4: -Normalization
           -Standardization
-          -
+          -One hot và Dummy
+          -Các thuật toán Encode_category
+Chart_type: -Vẽ các loại biểu đồ và chú thích ( chart_type_HTA)
+          
